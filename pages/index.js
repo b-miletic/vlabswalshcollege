@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Click the link to access Vlabs." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <a href="bit.ly/vlabswalshcollege">vlabs.walshcollege.edu</a>
         </p>
       </main>
 
