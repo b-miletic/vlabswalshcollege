@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Click the link to access Vlabs." />
+        <Header title="Click the link to access Vlabs" />
         <p className="description">
           <a href="bit.ly/vlabswalshcollege">vlabs.walshcollege.edu</a>
         </p>
